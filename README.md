@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://github.com/dh0728/dh0728/blob/output/github-contribution-grid-snake.svg"/>
 <!--
 **dh0728/dh0728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
