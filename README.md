@@ -1,7 +1,11 @@
 ## Hi there 👋
 <img src="https://github.com/dh0728/dh0728/blob/output/github-contribution-grid-snake.svg"/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dh0728)](https://solved.ac/dh0728)
 
+[![dh0728's GitHub stats](https://github-readme-stats.vercel.app/api?username=dh0728)](https://github.com/dh0728/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh0728)](https://github.com/dh0728/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dh0728)](https://solved.ac/dh0728)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dh0728&theme=dark)](https://git.io/streak-stats)
 <!--
 **dh0728/dh0728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
