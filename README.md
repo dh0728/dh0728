@@ -1,9 +1,8 @@
 ## Hi there 👋
 <img src="https://github.com/dh0728/dh0728/blob/output/github-contribution-grid-snake.svg"/>
 
-[![dh0728's GitHub stats](https://github-readme-stats.vercel.app/api?username=dh0728)](https://github.com/dh0728/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dh0728)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh0728)](https://github.com/dh0728/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dh0728&show_icons=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh0728&layout=compact&cache_seconds=86400)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dh0728)](https://solved.ac/dh0728)
 
